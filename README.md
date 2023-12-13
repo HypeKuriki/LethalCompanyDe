@@ -1,5 +1,5 @@
 # LethalCompanyDe
 Lethal Now In German 
 
-#Soon
+# Soon
 Terminal Translation
