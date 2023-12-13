@@ -1,0 +1,46 @@
+﻿sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=sr:"UMLAUFBAHN: $1\nBEVÖLKERUNG: $2\nBEDINGUNGEN: $3\nFAUNA: $4"
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=sr:"UMLAUFBAHN: $1\nBEVÖLKERUNG: $2\nBEDINGUNGEN: $3\nFAUNA: $4\nWetter: $5"
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=sr:"BEVÖLKERUNG: $1\nBEDINGUNGEN: $2\nFAUNA: $3"
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=sr:"BEVÖLKERUNG: $1\nBEDINGUNGEN: $2\nFAUNA: $3"
+
+Eclipsed=Verfinstert
+Flooded=Überschwemmt
+Misty=Neblig
+Stormy=Stürmisch
+Rainy=Regnerisch
+
+8 Titan=8 Titan
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Eisig, felsig. Auf diesem Mond wurden für Ressourcen abgebaut. Es ist leicht, sich hier zu verirren.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Es wird erzählt, dass gefährliche Kreaturen im weitläufigen Netzwerk von Tunneln leben.\n
+
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+Jagged and weathered terrain.=Zackiges und verwittertes Gelände.
+Ecosystem supports territorial behaviour.=Das Ökosystem hat territoriales Verhalten.\n
+
+31 March=31 March
+
+41 Experimentation=41 Experiment
+Abandoned=Verlassen
+Arid. Thick haze, worsened by industrial artifacts.=Dichter Dunst, durch Industrieabfälle.
+Dominated by a few species.\n=Von einigen Arten dominiert.\n
+
+56 Vow=56 Vow
+Humid. Rough terrain. Teeming with plant-life.=Feucht. Rauhes Gelände. Überfüllt mit Pflanzenleben.
+A competitive ecosystem supports aggressive lifeforms.\n=Das Ökosystem beinhaltet aggressive Lebensformen.\n
+
+61 March=61 March
+Diverse=Vielfältig
+Expansive. Constant rain.=Ständiger Regen.
+
+71 Gordion=71 Gordion
+Unknown=Unbekannt
+No land masses. Continual storms.=Keine Landmassen. Kontinuierliche Stürme.
+Unknown\nWhere the Company resides.\n=Unbekannt\nWo die Firma ihren Sitz hat.\n
+
+7 Dine=7 Dine
+85 Rend=85 Rend
+None=Keine
+Frozen, rocky. Its planet orbits a white dwarf star.=Eisig, felsig. Sein Planet umkreist einen weißen Zwergstern.
+Unlikely for complex life to exist.=Unwahrscheinlich, dass komplexes Leben existiert.
+

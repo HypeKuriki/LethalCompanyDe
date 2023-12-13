@@ -1,0 +1,193 @@
+﻿Item collected!=Gegenstand Eingesammelt!
+Big bolt=Große Schraube
+Drop Big bolt : [G]=Große Schraube Fallen Lassen : [G]
+Big bolt collected!=Große Schraube Eingesammelt!
+
+Brass bell=Glocke
+Drop Brass bell : [G]=Glocke Fallen Lassen : [G]
+Brass bell collected!=Glocke Eingesammelt!
+
+Brush=Bürste
+Drop Brush : [G]=Bürste Fallen Lassen : [G]
+Brush collected!=Bürste Eingesammelt!
+
+Sticky note=Zettel
+Drop Sticky note : [G]=Zettel Fallen Lassen : [G]
+
+Candy=Süßigkeit
+Drop Candy : [G]=Süßigkeit Fallen Lassen : [G]
+Candy collected!=Süßigkeit Eingesammelt!
+
+Clown horn=Clown Hupe
+Drop Clown horn : [G]=Clown Hupe Fallen Lassen : [G]
+Clown horn collected!=Clown Hupe Eingesammelt!
+
+Coffee mug=Kaffeetasse
+Drop Coffee mug : [G]=Kaffeetasse Fallen Lassen : [G]
+Coffee mug collected!=Kaffeetasse Eingesammelt!
+
+Cookie mold pan=Keksform
+Drop Cookie mold pan : [G]=Keksform Fallen Lassen : [G]
+Cookie mold pan collected!=Keksform Eingesammelt!
+
+Dust pan=Kehrblech
+Drop Dust pan : [G]=Kehrschaufel Fallen Lassen : [G]
+Dust pan collected!=Kehrschaufel Eingesammelt!
+
+Egg beater=Schneebesen
+Egg beater collected!=Schneebesen Eingesammelt
+Drop Egg beater : [G]=Schneebesen Fallen Lassen : [G]
+
+Golden cup=Goldener Becher
+Drop Golden cup : [G]=Goldenen Becher Fallen Lassen : [G]
+Golden cup collected!=Goldenen Becher Eingesammelt!
+
+Hair brush=Haarbürste
+Drop Hair brush : [G]=Haarbürste Fallen Lassen : [G]
+Hair brush collected!=Haarbürste Eingesammelt!
+
+Jar of pickles=Gurkenglas
+Drop Jar of pickles : [G]=Gurkenglas Fallen Lassen : [G]
+Jar of pickles collected!=Gurkenglas Eingesammelt!
+
+Key=Schlüssel
+Use key : [LMB]=Schlüssel Benutzen : [LMB]
+Drop Key : [G]=Schlüssel Fallen Lassen : [G]
+
+Laser pointer=Laserpointer
+Laser pointer collected!=Laserpointer Eingesammelt!
+Drop Laser pointer : [G]=Laserpointer Fallen Lassen : [G]
+
+Magnifying glass=Lupe
+Magnifying glass collected!=Lupe Eingesammelt!
+Drop Magnifying glass : [G]=Lupe Fallen Lassen : [G]
+
+Old phone=Altes Telefon
+Old phone collected!=Altes Telefon Eingesammelt!
+Drop Old phone : [G]=Altes Telefon Fallen Lassen : [G]
+
+Perfume bottle=Parfümflasche
+Drop Perfume bottle : [G]=Parfümflasche Fallen Lassen : [G]
+Perfume bottle collected!=Parfümflasche Eingesammelt!
+
+Pill bottle=Tabletten
+Drop Pill bottle : [G]=Tabletten Fallen Lassen : [G]
+Pill bottle collected!=Tabletten Eingesammelt!
+
+Plastic fish=Plastikfisch
+Plastic fish collected!=Plastikfisch Eingesammelt!
+Drop Plastic fish : [G]=Plastikfisch Fallen Lassen : [G]
+
+Red soda=Rote Limonade
+Drop Red soda : [G]=Rote Limonade Fallen Lassen : [G]
+Red soda collected!=Rote Limonade Eingesammelt!
+
+Ring bell: [E]=An Der Glocke Läuten: [E]
+
+Robot Toy=Roboter
+Drop Robot Toy : [G]=Roboter Fallen Lassen : [G]
+Toy robot collected!=Roboter Eingesammelt!
+
+Steering wheel=Lenkrad
+Steering wheel collected!=Lenkrad Eingesammelt!
+Drop Steering wheel : [G]=Lenkrad Fallen Lassen : [G]
+
+Stop sign=Stopschild
+Drop Stop sign : [G]=Stopschild Fallen Lassen : [G]
+Stop sign collected!=Stopschild Eingesammelt!
+
+Tattered metal sheet=Beschädigtes Metallblech
+Drop Tattered metal sheet : [G]=Beschädigtes Metallblech Fallen Lassen : [G]
+Tattered metal sheet collected!=Beschädigtes Metallblech Eingesammelt!
+
+Metal sheet=Metallblech
+Drop Metal sheet : [G]=Metallblech Fallen Lassen : [G]
+Metal sheet collected!=Metallblech Eingesammelt!
+
+Tea Kettle=Tee Kessel
+Drop Tea kettle : [G]=Tee Kessel Fallen Lassen : [G]
+Tea kettle collected!=Tee Kessel Eingesammelt!
+
+Teeth=Gebiss
+Teeth collected!=Gebiss Eingesammelt!
+Drop Teeth : [G]=Gebiss Fallen Lassen : [G]
+
+Toothpaste=Zahnpasta
+Toothpaste collected!=Zahnpasta Eingesammelt!
+Drop Toothpaste : [G]=Zahnpasta Fallen Lassen : [G]
+
+Toy cube=Würfel
+Toy cube collected!=Würfel Eingesammelt!
+Drop Toy cube : [G]=Würfel Fallen Lassen : [G]
+
+Yield sign=Schild
+Drop Yield sign : [G]=Schild Fallen Lassen : [G]
+Yield sign collected!=Schild Eingesammelt!
+
+Wedding ring=Ehering
+Drop Wedding ring : [G]=Ehering Fallen Lassen : [G]
+Wedding ring collected!=Ehering Eingesammelt!
+
+Apparatus=Apparat
+Drop Apparatus : [G]=Apparat Fallen Lassen : [G]
+Apparatus collected!=Apparat Eingesammelt!
+
+Bee hive=Bienenstock
+Drop Bee hive : [G]=Bienenstock Fallen Lassen : [G]
+Bee hive collected!=Bienenstock Eingesammelt!
+Hive collected!=Bienenstock Eingesammelt!
+
+Drop Mug : [G]=Tasse Fallen Lassen : [G]
+Mug collected!=Tasse Eingesammelt!
+
+Bottles=Flaschen
+Drop Bottles : [G]=Flaschen Fallen Lassen : [G]
+Bottles collected!=Flaschen Eingesammelt!
+
+Cash register=Registrierkasse
+Use cash register : [LMB]=Kasse Benutzen : [LMB]
+Drop Cash register : [G]=Kasse Fallen Lassen : [G]
+Cash register collected!=Kasse Eingesammelt!
+
+Drop Chemical jug : [G]=Chemie Kanister Fallen Lassen : [G]
+Chemical jug=Chemie Kanister
+Chemical jug collected!=Chemie Kanister Eingesammelt!
+
+Ring collected!=Ring Eingesammelt!
+
+Drop Rubber Ducky : [G]=Gummiente Fallen Lassen : [G]
+Rubber Ducky collected!=Gummiente Eingesammelt!
+
+Fancy lamp=Schöne Lampe
+Drop Fancy lamp : [G]=Schöne Lampe Fallen Lassen : [G]
+Fancy lamp collected!=Schöne Lampe Eingesammelt!
+
+Large axle=Große Achse
+Large axle collected!=Große Achse Eingesammelt!
+Drop Large axle : [G]=Große Achse Fallen Lassen : [G]
+
+Painting=Gemälde
+Drop Painting : [G]=Gemälde Fallen Lassen : [G]
+Painting collected!=Gemälde Eingesammelt!
+
+V-type engine=V-Typ Motor
+Drop V-type engine : [G]=V-Typ Motor Fallen Lassen : [G]
+V-type engine collected!=V-Typ Motor Eingesammelt!
+
+Airhorn=Signalhorn
+Use airhorn : [LMB]=Lufthorn Benutzen : [LMB]
+Drop Airhorn : [G]=Lufthorn Fallen Lassen : [G]
+Airhorn collected!=Lufthorn Eingesammelt!
+
+Gold Bar=Goldbarren
+Drop Gold bar : [G]=Goldbarren Fallen Lassen : [G]
+Gold bar collected!=Goldbarren Eingesammelt!
+
+Drop Pro-flashlight : [G]=Pro-Taschenlampe Fallen Lassen : [G]
+Drop Walkie-talkie : [G]=Walkie-Talkie Fallen Lassen : [G]
+
+Remote collected!=Fernbedienung Eingesammelt!
+Remote=Fernbedienung
+
+Use key: [ LMB ]=Schlüssel Benutzen : [LMB]
+Swing sign : [LMB]=Schild Schwenken : [LMB]

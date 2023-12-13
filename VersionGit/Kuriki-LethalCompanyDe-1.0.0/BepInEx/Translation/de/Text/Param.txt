@@ -1,0 +1,41 @@
+﻿r:"^(\$[0-9]+)$"=$1
+r:"^([0-9]+)%$"=$1%
+r:"^([0-9]+) EXP$"=$1 EXP
+r:"^([a-z][0-9])$"=$1
+r:"^Random seed: ([0-9]+)$"=Zufälliger seed: $1
+r:"^((\d|\d{2}):\d{2})\\nAM$"=$1\nAM
+r:"^((\d|\d{2}):\d{2})\\nPM$"=$1\nPM
+r:"^PROFIT QUOTA:\\n(\$[0-9]+ \/ \$[0-9]+)$"=Quote:\n$1
+r:"^DEADLINE:\\n([1]) Days$"=Deadline:\n$1 Tag
+r:"^DEADLINE:\\n([0,2,3,4,5,6,7,8,9]) Days$"=Deadline:\n$1 Tage
+DEADLINE:\n NOW=Deadline:\JETZT
+r:"^DUE: (\$[0-9]+)$"=Strafe: $1
+r:"^TOTAL: (\$[0-9]+)$"=:GESAMT $1
+r:"^Value: (\$[0-9]+|[?]+)$"=Preis: $1
+r:"^Casualties (\(x[0-9]+\)+): (-[0-9]+%)$"=Unfälle: $1: $2
+r:"^Do you want to delete File ([0-9]+)\?$"=Chcete odstranit soubor $1?
+r:"^(\[[A-Z]+\])$"=$1
+r:"^MONITORING: ([\s\S]+)$"=MONITORING: $1
+r:"^\(Spectating: ([\s\S]+)\)$"=(Spectating: $1)
+r:"^([S,A,B,C,D,E,F,G][+]?)$"=$1
+r:"^Overtime bonus: (\$[0-9]+)$"=Bonus: $1
+r:"^\(([0-9]+\/[0-9]+) Votes\)$"=($1 Votes)
+r:"([\s\S]+) joined the ship."=$1 Ist Dem Schiff Beigetreten.
+r:"([\s\S]+) started the ship."=$1 Hat Das Schiff Gestartet.
+r:"([\s\S]+)<color\\=#FF0000>([\s\S]+)"=$1<color\=#FF0000>$2.
+sr:"^Change: ([\s\S])$"=Ändern: $1
+Change: Pajama suit=Ändern: Pyjama
+Change: Hazard suit==Ändern: Schutz Anzug
+
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 Unfälle: $2\\n($3 Körper Geborgen)
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 Unfälle: $2%\n($3 Körper Geborgen)
+
+r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([1][2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+
+r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 Unfälle: $2\n($3 Körper Geborgen)
+sr:"^Days on the job: ([\s\S]+)\nScrap value collected: ([\s\S]+)\nDeaths: ([\s\S]+)\nSteps taken: ([\s\S]+)$"=Tage Im Job：$1\Gesamter Schrott Preis：$2\Tode：$3\Schritte：$4

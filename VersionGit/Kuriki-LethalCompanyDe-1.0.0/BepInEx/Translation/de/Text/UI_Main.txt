@@ -1,0 +1,58 @@
+﻿r:"^v([0-9]+)$"=v$1
+
+LAUNCH MODE=Modus
+> Online=> Online
+> LAN=> LAN
+  Online=  Online
+  LAN=  LAN
+  (Recommended)= 
+
+> Host=> Hosten
+> Join a crew=> Einer Crew Beitreten
+> Settings=> Einstellungen
+> Credits=> Credits
+Credits=Credits
+> Quit=> Verlassen
+
+Would you like to leave the game?=Möchtest Du Das Spiel Wirklich Verlassen?
+> Confirm=> Ja
+> Cancel=> Nein
+
+Server name:=Server Name:
+Public=Öffentlich
+PUBLIC means your game will be visible on the server list for all to see.=ÖFFENTLICH bedeutet, dass Ihr Spiel auf der Serverliste für alle sichtbar ist.
+Friends-only=Nur Freunde
+PRIVATE means you must send invites through Steam for players to join.=PRIVAT bedeutet, dass Sie Einladungen über Steam senden müssen, damit Spieler beitreten können.
+[ Confirm ]=[ Bestätigen ]
+[ Back ]=[ Zurück ]
+
+Started server, joining...=Server Gestartet, Beitreten...
+Loading...=Laden...
+
+Save File=Save File
+r:"^File ([0-9]+)$"=File $1
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\Tag: $2
+
+Servers=Server
+[ Refresh ]=Refresh
+Sort: near=Sortieren: Nah
+Sort: far=Sortieren: Fern
+Sort: worldwide=Sortieren: Weltweit
+Join=Beitreten
+> Back to menu=> Zurück
+
+Do you want to delete File ([0-9])\?$"=Möchtest du diese Datei wirklich Löschen $1?
+Delete=Löschen
+Go back=Zurück
+Back=Zurück
+
+> Back=> Zurück
+DISCARD=> Verwerfen
+Discard changes=Änderungen Verwerfen
+Unconfirmed changes!=Unbestätigte Änderungen!
+Discard=Verwerfen
+Confirm=Bestätigen
+Confirm changes?=Änderungen Bestätigen?
+
+> Resume=> Weiter
+> Invite friends=> Freunde Einladen

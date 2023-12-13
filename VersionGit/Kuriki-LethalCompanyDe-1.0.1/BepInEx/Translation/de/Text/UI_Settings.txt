@@ -1,0 +1,27 @@
+﻿r:"^Current input device: \\n ([\s\S]*)$"=Eingabegerät: \n $1
+ENABLED=EINGESCHALTET
+MODE: Push to talk=Modus: Push to talk
+MODE: Voice activation=Modus: Voice activation
+Master volume:=Gesamtlautstärke:
+
+DISPLAY=Anzeige
+Frame rate cap:=FPS Begrenzung:
+Use monitor (V-Sync)=V-Sync
+Uncapped=Unbegrenzt
+r:"^(\d|\d{2}|\d{3}) FPS$"=$1 FPS
+
+Display mode:=Anzeige Modus:
+Fullscreen=Vollbild
+Windowed fullscreen=Vollbild Im Fenster
+Maximized window=Maximiertes Fenster
+Window=Fenster
+Gamma/Brightness:=Gama
+
+CONTROLS=Steuerung
+Look sensitivity:=Empflindlichkeit
+Push to talk:=Push to talk:
+Invert Y-Axis=Invert Y-Axis
+
+> Reset all to default=> Alles Zurücksetzen
+> Confirm changes=> Änderungen Bestätigen
+BACK=> Zurück

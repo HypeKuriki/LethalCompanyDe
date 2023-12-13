@@ -1,0 +1,21 @@
+﻿Brake lever = Bremshebel
+Lands the ship. = Landet Das Schiff
+
+Quota = Quote 
+Sell scrap for cash. = Verkaufe Schrott Fuer Geld
+Door controls = Tür Steuerung
+Can't stay closed forever = Kann Nicht Fuer Immer Zu Bleiben
+
+Training manual = Handbuch
+Useful info! = Nuetzliche Informationen
+
+Terminal = Terminal
+Buy flashlights and travel to new planets! = Kaufe Dinge Und Fliege\n Zu Neuen Planeten!
+
+Coil = Batterieladegerät
+Charges batteries = Laedt Batterien
+
+Ship = Schiff
+Home base = Basis
+
+Main entrance = Haupteingang

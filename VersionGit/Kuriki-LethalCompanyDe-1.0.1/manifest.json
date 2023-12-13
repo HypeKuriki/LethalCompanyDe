@@ -1,0 +1,9 @@
+{
+    "name": "LethalCompanyDe",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Lethal Company German Translation",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

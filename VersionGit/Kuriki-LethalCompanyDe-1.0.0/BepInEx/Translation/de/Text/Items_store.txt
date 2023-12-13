@@ -1,0 +1,39 @@
+﻿Drop Walkie-talkie : [G]=Walkie-Talkie Fallen Lassen : [G]
+Power button : [Q]=Ein-/Ausschalter : [Q]
+Send voice : [LMB]=Aktivieren : [LMB]
+
+Drop clipboard : [G]=Klemmbrett Fallen Lassen : [G]
+Inspect: [Z]=Inspiezieren : [Z]
+Turn page : [Q/E]=Seite Umblättern : [Q/E]
+
+Scan for threat: [LMB]=Scannen : [LMB]
+Drop Zap gun : [G]=Zap Pistole Fallen Lassen : [G]
+
+Toggle light : [LMB]=Licht Umschalten : [LMB]
+Drop Flashlight : [G]=Taschenlampe Fallen Lassen : [G]
+Drop Pro-flashlight : [G]=Pro-Taschenlampe Fallen Lassen : [G]
+
+Drop Stun grenade : [G]=Betäubungsgrenade Fallen Lassen : [G]
+Use grenade : [LMB]=Grenade benutzen : [LMB]
+Throw grenade: [LMB]=Grenade werfen : [LMB]
+
+Drop Lockpicker : [G]=Dietrich Fallen Lassen : [G]
+Place on door : [LMB]=An Tür Anbringen : [LMB]
+
+Drop Boombox : [G]=Boombox Fallen Lassen : [G]
+Toggle music : [LMB]=Musik Umschalten : [LMB]
+
+Use jetpack : [LMB]=Jetpack Benutzen : [LMB]
+Drop Jetpack : [G]=Jetpack Fallen Lassen : [G]
+
+Swing shovel : [LMB]=Schaufel Schwingen : [LMB]
+Drop Shovel : [G]=Schaufel Fallen Lassen : [G]
+
+Take TZP : [LMB]=TZP Nehmen : [LMB]
+Drop TZP-Inhalant : [G]=TZP-Inhalator Fallen Lassen : [G]
+
+Turn on booster : [LMB]=Booster Einschalten : [LMB]
+Drop Radar-booster : [G]=Radar-Booster Fallen Lassen : [G]
+
+Pop up ladder : [LMB]=Leiter Ausfahren : [LMB]
+Drop Extension ladder : [G]=Leiter Fallen Lassen : [G]
