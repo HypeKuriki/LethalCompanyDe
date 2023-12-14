@@ -1,0 +1,20 @@
+﻿Flowerman=Flowerman
+Bracken=Bracken
+Spring=Spring
+Eyeless dog=Eyeless dog
+Blob=Blob
+Hygrodere=Hygrodere
+ForestGiant=ForestGiant
+Baboon hawk=Baboon hawk=
+MouthDog=MouthDog
+Crawler=Crawler
+Snare flea=Snare Flea
+Bunker spider=Bunker spider
+Bunker Spider=Bunker Spider
+Centipede=Centipede
+Turret=Turret
+Puffer=Puffer
+Hoarding bug=Hoarding bug
+Manticoil=Manticoil
+Roaming locusts=Roaming locusts
+ForestGiant=ForestGiant

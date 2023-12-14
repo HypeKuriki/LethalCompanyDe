@@ -1,0 +1,16 @@
+QUOTA REACHED!=Quote Erreicht!
+NEW PROFIT QUOTA:=Neue Quote:
+Tip=Bonus
+Paycheck!=Gehalt!
+HALT!=Halt!
+
+1 Day Left=1 Tag Übrig
+2 Days Left=2 Tage Übrig
+0 Days Left=0 Tage Übrig
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=0 Tage Übrig Um Die Quote Zu Erreichen. Benutze Das Terminal Um Zur Gesellschafft Zu Kommen, Um Dort Verkaufen Zu Können.
+0 Days Left=0 Tage Übrig
+
+Most profitable=Profitabelster Mitarbeiter
+Sustained the most injuries.=Mitarbeiter Mit Den Meisten Verletzungen
+The laziest employee.=Faulster Mitarbeiter
+The most paranoid employee.=Ängstlichster Mitarbeiter

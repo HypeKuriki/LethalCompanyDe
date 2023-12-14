@@ -1,0 +1,132 @@
+#intro
+LAUNCH MODE=Modus
+> Online=> ONLINE
+> LAN=> LAN
+  Online=  Online
+  LAN=  Lan
+  (Recommended)= 
+
+#mainMenu
+> Host=> Hosten
+> Join a crew=> Einer Crew Beitreten
+> Settings=> Einstellungen
+> Credits=> Credits
+> Quit=> Verlassen
+> Join LAN session=> LAN Sitzung Beitreten
+(Launched in LAN mode)=(LAN)
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Du Befindest Dich Im LAN-Modus. Wenn Du Remoteverbindungen Über LAN Zulassen Willst, Stelle Bitte Sicher, Dass Du Über Ausreichende Netzwerksicherheit Wie Eine Firewall Und/Oder VPN Verfügst.
+
+#hostMenu
+Server name:=Server Name:
+Public=Öffentlich
+PUBLIC means your game will be visible on the server list for all to see.=ÖFFENTLICH Bedeutet, Dass Dein Spiel auf der Serverliste Für Alle Sichtbar Ist.
+Friends-only=Nur Freunde
+PRIVATE means you must send invites through Steam for players to join.=PRIVAT Bedeutet, Dass Du Einladungen Über Steam Senden Musst, Damit Spieler Beitreten Können.
+[ Confirm ]=[ Bestätigen ]
+[ Back ]=[ Zurück ]
+Host LAN Server:=LAN Server Hosten
+Local-only=Nur Local
+Allow remote connections=Remote Verbindungen Erlauben
+
+#savefileMenu
+Save File=Speicherstände
+r:"^File ([0-9]+)$"=Datei $1
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\Tag: $2
+r:"^Do you want to delete File ([0-9])\?$"=Möchtest Du $1 Wirklich Löschen?
+Delete=Löschen
+Go back=Zurück
+Back=Zurück
+r:"^Do you want to delete File ([0-9]+)\?$"=Möchtest Du $1 Wirklich Löschen?
+
+#serversMenu
+Servers=Server
+[ Refresh ]=Refresh
+Sort: near=Sortieren: Nah
+Sort: far=Sortieren: Fern
+Sort: worldwide=Sortieren: Weltweit
+Join=Beitreten
+> Back to menu=> Zurück
+
+#settingsMenu
+r:"^Current input device: \\n ([\s\S]*)$"=Eingabegerät: \n $1
+ENABLED=EINGESCHALTET
+MODE: Push to talk=Modus: Push to talk
+MODE: Voice activation=Modus: Voice activation
+Master volume:=Gesamtlautstärke:
+DISPLAY=Anzeige
+Frame rate cap:=FPS Begrenzung:
+Use monitor (V-Sync)=Monitor V-Sync
+Uncapped=Unbegrenzt
+r:"^(\d|\d{2}|\d{3}) FPS$"=$1 FPS
+Display mode:=Anzeige Modus:
+Fullscreen=Vollbild
+Windowed fullscreen=Vollbild Im Fenster
+Maximized window=Maximiertes Fenster
+Window=Fenster
+Gamma/Brightness:=Gama
+CONTROLS=Steuerung
+Look sensitivity:=Empflindlichkeit
+Push to talk:=Push to talk:
+Invert Y-Axis=Y-Achse Invertieren
+> Reset all to default=> Alles Zurücksetzen
+> Confirm changes=> Änderungen Bestätigen
+BACK=> Zurück
+ACCESSIBILITY=Weiteres
+Arachnophobia Mode=Spinnenphobie Modus
+> Back=> Zurück
+DISCARD=> Verwerfen
+Discard changes=Änderungen Verwerfen
+Unconfirmed changes!=Unbestätigte Änderungen!
+Discard=Verwerfen
+Confirm=Bestätigen
+Confirm changes?=Änderungen Bestätigen?
+
+#keybindsMenu
+> Change keybinds=> Belegung Ändern
+REMAP CONTROLS=Steuerung
+Walk forward=Vorwärts Laufen
+Walk back=Rückwärts Laufen
+Walk left=Links Laufen
+Walk right=Rechts Laufen
+Jump=Springen
+Crouch=Ducken
+Interact=Interagieren
+Ping scan=Scannen
+Item primary use=Slot 1
+Item Secondary use=Slot 2
+Item Tertiary use=Slot 3
+Item drop=Gegenstand Fallenlassen
+Item switch left=Slot Nach Links
+Item switch right=Slot Nach Rechts
+Item inspect=Gegenstand Inspiezieren
+Replace furniture=Möbel Plazieren
+Turn furniture=Möbel Drehen
+Store furniture=Möbel Einlagern
+Dance=Tanzen
+Point=Zeigen
+Enable chat=Chat Einschalten
+Submit chat=Chat Absenden
+REBIND CONTROLLERS=Controller Zuweisen
+Move forward=Vorwärts Laufen
+Move back=Rückwärts Laufen
+Move left=Links Laufe
+Move right=Rechts Laufen
+Item secondary use=Slot 1
+Item tertiary use=Slot 2
+> Set to defaults=> Alles Zurücksetzen
+
+#creditsMenu
+Credits=Credits
+
+#other
+> Resume=> Weiter
+> Invite friends=> Freunde Einladen
+r:"^v([0-9]+)$"=v$1
+Would you like to leave the game?=Möchtest Du Das Spiel Wirklich Verlassen?
+> Confirm=> Ja
+> Cancel=> Nein
+Started server, joining...=Server Gestartet, Beitreten...
+Loading...=Laden...
+Adjust screen brightness until the symbol on the right is barely visible.=Passe Die Bildschirmhelligkeit An, Bis Das Symbol Rechts Kaum Noch Sichtbar Ist.
+  CONFIRM=  Bestätigen
+Option A=Option A

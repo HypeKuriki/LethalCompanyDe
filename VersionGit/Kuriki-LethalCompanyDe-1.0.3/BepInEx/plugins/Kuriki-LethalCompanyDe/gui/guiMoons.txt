@@ -1,0 +1,47 @@
+﻿sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=sr:"Umlaufbahn: $1\nBEVÖLKERUNG: $2\nBEDINGUNGEN: $3\nFAUNA: $4"
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=sr:"Umlaufbahn: $1\nBEVÖLKERUNG: $2\nBEDINGUNGEN: $3\nFAUNA: $4\nWetter: $5"
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=sr:"BEVÖLKERUNG: $1\nBEDINGUNGEN: $2\nFAUNA: $3"
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=sr:"BEVÖLKERUNG: $1\nBEDINGUNGEN: $2\nFAUNA: $3"
+sr:"^CELESTIAL BODY: ([\s\S]+)$"=PLANET: $1
+
+Eclipsed=Verfinstert
+Flooded=Überschwemmt
+Misty=Neblig
+Stormy=Stürmisch
+Rainy=Regnerisch
+
+8 Titan=8 Titan
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Eisig, felsig. Auf Diesem Mond Wurden Viele Ressourcen Abgebaut. Es Ist Leicht, Sich Hier Zu Verirren.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Es Wird Erzählt, Dass Gefährliche Kreaturen In Den Tunneln Leben.\n
+
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+Jagged and weathered terrain.=Zackiges Und Verwittertes Gelände.
+Ecosystem supports territorial behaviour.=Das Ökosystem Ist Gefährlich.\n
+
+31 March=31 March
+
+41 Experimentation=41 Experiment
+Abandoned=Verlassen
+Arid. Thick haze, worsened by industrial artifacts.=Dichter Dunst, Durch Industrieabfälle.
+Dominated by a few species.\n=Von Einigen Arten Dominiert.\n
+
+56 Vow=56 Vow
+Humid. Rough terrain. Teeming with plant-life.=Feucht. Rauhes Gelände. Überfüllt Mit Pflanzenleben.
+A competitive ecosystem supports aggressive lifeforms.\n=Das Ökosystem Beinhaltet Aggressive Lebensformen.\n
+
+
+61 March=61 March
+Diverse=Vielfältig
+Expansive. Constant rain.=Ständiger Regen.
+
+71 Gordion=71 Gordion
+Unknown=Unbekannt
+No land masses. Continual storms.=Keine Landmassen. Kontinuierliche Stürme.
+Unknown\nWhere the Company resides.\n=Unbekannt\nWo Die Firma Ihren Sitz Hat.\n
+
+7 Dine=7 Dine
+85 Rend=85 Rend
+None=Keine
+Frozen, rocky. Its planet orbits a white dwarf star.=Eisig, Felsig. Der Planet Umkreist Einen Weißen Zwergstern.
+Unlikely for complex life to exist.=Unwahrscheinlich, Dass Komplexes Leben Existiert.

@@ -1,0 +1,5 @@
+#chatMessages
+r:"([\s\S]+) joined the ship."=$1 Ist Dem Schiff Beigetreten.
+r:"([\s\S]+) started the ship."=$1 Hat Das Schiff Gestartet.
+r:"([\s\S]+) was left behind."=$1 Wurde Zurückgelassen.
+Press "/" to talk.=Drücke "-" Um Den Chat Zu Benutzen!

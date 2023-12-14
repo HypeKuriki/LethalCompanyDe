@@ -1,0 +1,7 @@
+EMPLOYEE RANK=MITARBEITER RANG
+Boss=Boss
+Leader=Vorgesetzter
+Employee=Mitarbeiter
+Intern=Praktikant
+Part-timer=Teilzeitler
+Unnamed=Unbenannt

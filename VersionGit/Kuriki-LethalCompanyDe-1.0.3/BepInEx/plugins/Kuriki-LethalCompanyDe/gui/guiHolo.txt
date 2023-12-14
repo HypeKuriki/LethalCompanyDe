@@ -1,0 +1,34 @@
+#playerInterface
+Main entrance =Haupteingang
+SYSTEMS ONLINE=SYSTEME ONLINE
+CRITICAL INJURY=SCHWERE VERLETZUNG
+VISIBILITY LOW!\n\nSteam leak detected in area=SCHLECHTE SICHT!\n\nDampfleck In Der Nähe entdeckt
+[ Not holding items ]=[Keine Aufbewahrten Gegenstände]
+Oxygen critically low!=Sauerstoff Stand Sehr Niedrig!
+r:"^MONITORING: ([\s\S]+)$"=MONITORING: $1
+r:"^\(Spectating: ([\s\S]+)\)$"=(Spectating: $1)
+(Dead)=(Tot)
+[LIFE SUPPORT: OFFLINE]=[LIFE SUPPORT: OFFLINE]
+Locked=Verschlossen
+[Hands full]=[Hände Voll]
+Autosaving...=Automatisches Speichern...
+HAZARD LEVEL:=Gefahren Level:
+CREW:=Crew
+[Hands full]=[Hände Voll]
+PERFORMANCE REPORT=Leistungsbericht
+(Spectating: )=(Beobachtet:)
+New creature data sent to terminal!=Neue Kreatur Entdeckt! Daten Wurden Zum Terminal Gesendet
+Stats=Stats
+Notes: \n=Notizen: \n
+Press B to move and place objects in the ship, E to cancel.=B Drücken Um Objekte Im Schiff Zu Bewegen, E Zum Abbrechen.
+Voice volume=Sprach Lautstärke
+Waiting for crew...=Auf Crew Warten...
+(Some were too far to receive your message.)=(Einige Sind Zu Weit Entfernt, Um Deine Nachricht Zu Empfangen.)
+Items missed!=Gegenstände Verloren!
+You did not meet the profit quota before the deadline.=Du Hast Nicht Die Quote Innerhlab Der Deadline Erreicht.
+YOU ARE FIRED.=DU BIST GEFEUERT.
+[Pulling valve]=[Ventil Zudrehen]
+[Cannot pull valve]=[Ventil Kann Nicht Gedreht Werden] 
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early=TIPP!: Halte [RMB] Gedrückt, Um Dafür Zu Stimmen, Dass Das Schiff Früher Los Fliegt
+
+

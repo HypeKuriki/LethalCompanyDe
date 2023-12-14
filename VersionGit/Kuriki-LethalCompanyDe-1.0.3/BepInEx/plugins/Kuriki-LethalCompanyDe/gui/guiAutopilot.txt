@@ -1,0 +1,13 @@
+#autopilotVote
+Tell autopilot ship to leave early : [RMB] (Hold)=Früher Zurück Fliegen: [RMB] (Halten)
+Voted for ship to leave early=Dafür Gestimmt, Dass Das Schiff Früher Los Fliegt
+Ship leaving in one hour=Das Schiff Fliegt In Einer Stunde Los
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=Warnung! Kehre Bis $1 Zum Schiff Zurück. Es Wurde Abgestimmt Und Das Schiff FLiegt Vorzeitig Los
+
+#autopilotMessage
+PILOT COMPUTER=AUTOPILOT
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=WARNUNG!!! Das Schiff Wird Um Mitternacht Los Fliegen.
+Alert! The autopilot is leaving due to dangerous conditions.=Achtung! Das Schiff Fliegt Los Wegen Gefährlichen Bedingungen
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Die Gesellschaft Muss Die Gefahr Vor Schäden Minimieren. Aufwiedersehen!
+Warning! No response from crew, which has not returned. Emergency code activated.=Warnung! Keine Reaktion Der Crew. Notfallcode Aktiviert.
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Das Schiff Wird Nun Versuchen, Zum Nächstgelegenen Sicheren Spaceport Zu Fliegen.
